@@ -120,19 +120,25 @@ private:      Most production work lives in private repos
 
 <p align="center">
   <a href="https://github.com/itsPSD">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsPSD&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/itsPSD">
-    <img height="170" src="https://streak-stats.demolab.com?user=itsPSD&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=86400" alt="GitHub streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsPSD&theme=github_dark" alt="Profile details"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/itsPSD">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsPSD&layout=compact&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true&cache_seconds=86400" alt="Top languages"/>
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsPSD&theme=github_dark" alt="Stats"/>
   </a>
   <a href="https://github.com/itsPSD">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsPSD&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsPSD&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsPSD">
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsPSD&theme=github_dark&exclude=html,css" alt="Repos per language"/>
+  </a>
+  <a href="https://github.com/itsPSD">
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsPSD&theme=github_dark&exclude=html,css" alt="Most-commit language"/>
   </a>
 </p>
 
@@ -148,11 +154,7 @@ private:      Most production work lives in private repos
   </a>
 </p>
 
-<details>
-  <summary><b>Stats not loading?</b> &nbsp;<sub>(click to expand)</sub></summary>
-  <br/>
-  These cards are rendered by <code>github-readme-stats.vercel.app</code> and <code>streak-stats.demolab.com</code>. They occasionally fail on first cold-start or when viewed inside VS Code's Markdown preview &mdash; reload, or open this on github.com directly. To count private commits, enable <i>Settings &rarr; Profile &rarr; Contributions & activity &rarr; "Include private contributions on my profile"</i>.
-</details>
+<sub><i>Tip: to make private contributions count in these cards, enable <b>Settings &rarr; Profile &rarr; Contributions & activity &rarr; "Include private contributions on my profile"</b>.</i></sub>
 
 <!-- ============================== BY THE NUMBERS ============================== -->
 
