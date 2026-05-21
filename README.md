@@ -130,6 +130,80 @@ Most of my best work lives in private repos &mdash; the stats below count those.
   </tr>
 </table>
 
+<!-- ============================== FEATURED WORK ============================== -->
+
+## &#128640;&nbsp; Featured Work
+
+<br/>
+
+### &#128717;&nbsp; Cherries Crochet &nbsp; <img src="https://img.shields.io/badge/-Live-21c55d?style=flat-square" alt="Live"/> &nbsp; <a href="https://cherriescrochet.com">cherriescrochet.com&nbsp;&#8599;</a>
+
+> Production e-commerce for a handmade crochet boutique.
+
+- **Razorpay checkout** &mdash; HMAC verification on return **plus** server-side webhook
+- **Dual JWT-cookie auth** &mdash; separate admin and customer scopes, rotation on refresh
+- **Atomic stock reservation** with auto-rollback on failed payments
+- **Coupon engine** &mdash; percent / flat / per-user caps / time windows
+- **Ops dashboard** &mdash; refunds, low-stock alerts, fulfilment, rate-limited middleware, strict CSP
+
+<sub><b>Stack &nbsp;&middot;</b> &nbsp; <code>Next.js&nbsp;16</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Mongoose</code> &nbsp; <code>Razorpay</code> &nbsp; <code>Tailwind</code> &nbsp; <code>JWT</code></sub>
+
+<br/><br/>
+
+### &#129302;&nbsp; Discord Bot Platform &nbsp; <img src="https://img.shields.io/badge/-Shipped-0e75b6?style=flat-square" alt="Shipped"/>
+
+> Multi-tenant Discord bot platform with a full Next.js dashboard.
+
+- **Multi-server isolation** &mdash; per-guild config with audit trail
+- **Full interaction surface** &mdash; slash commands, buttons, modals
+- **Ticket lifecycle** &mdash; create, claim, route, close, reopen, generate transcripts
+- **OTP email verification** with role-gated access on join
+- **Discord OAuth** dashboard login with **live config sync** &mdash; edits hot-apply on the bot
+
+<sub><b>Stack &nbsp;&middot;</b> &nbsp; <code>TypeScript</code> &nbsp; <code>discord.js&nbsp;v14</code> &nbsp; <code>Next.js</code> &nbsp; <code>Fastify</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Prisma</code> &nbsp; <code>Resend</code> &nbsp; <code>Pino</code></sub>
+
+<br/><br/>
+
+### &#128658;&nbsp; Legacy MDT &nbsp; <img src="https://img.shields.io/badge/-Internal-64748b?style=flat-square" alt="Internal"/>
+
+> Mobile Data Terminal for the San Andreas State PD on Legacy Roleplay India.
+
+- **Citations, arrests, BOLOs, incident reports, unit dispatch** &mdash; one operator console
+- **Role-based access** for officers, dispatch, and high command with per-action audit
+- **Real-time MySQL pipeline** with pluggable permission system across OP-FW servers
+- **Case notes** rendered from markdown with sanitised HTML
+
+<sub><b>Stack &nbsp;&middot;</b> &nbsp; <code>Next.js&nbsp;16</code> &nbsp; <code>React&nbsp;19</code> &nbsp; <code>MySQL</code> &nbsp; <code>OP-FW</code> &nbsp; <code>Tailwind&nbsp;v4</code></sub>
+
+<br/><br/>
+
+### &#127960;&nbsp; Hotel Palacio &nbsp; <img src="https://img.shields.io/badge/-Live-21c55d?style=flat-square" alt="Live"/> &nbsp; <a href="https://hotelpalacio.in">hotelpalacio.in&nbsp;&#8599;</a>
+
+> Animation-led luxury hotel marketing site.
+
+- **Choreographed Framer Motion** reveal system across the page
+- **Parallax suites** carousel, press-quote slider, polished hero
+- **Tuned for first paint** with accessibility-aware reveals
+- **SEO + Open Graph** tuned for booking referrals
+- **Reduced-motion** fallback respected on every section
+
+<sub><b>Stack &nbsp;&middot;</b> &nbsp; <code>Next.js&nbsp;15</code> &nbsp; <code>React</code> &nbsp; <code>Framer&nbsp;Motion</code> &nbsp; <code>Tailwind</code> &nbsp; <code>TypeScript</code></sub>
+
+<br/><br/>
+
+### &#127943;&nbsp; The Sport Hour &nbsp; <img src="https://img.shields.io/badge/-Shipped-0e75b6?style=flat-square" alt="Shipped"/>
+
+> Cross-platform sports app for iOS, Android and web.
+
+- **Shared core layer** between native and web clients
+- **Express REST API** with modular route / view split
+- **EAS-managed** iOS and Android binary pipeline
+- **Offline-first reads** on key feeds
+
+<sub><b>Stack &nbsp;&middot;</b> &nbsp; <code>React&nbsp;Native</code> &nbsp; <code>Expo</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>MongoDB</code> &nbsp; <code>EAS</code></sub>
+
+<br/>
+
 <!-- ============================== STATS ============================== -->
 
 ## &#128202;&nbsp; GitHub Stats &nbsp;<sub>*(private commits included)*</sub>
