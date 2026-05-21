@@ -1,8 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 
-<h1 align="center">
-  Hey, I'm Priyangshu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" width="34" alt="dev"/>
-</h1>
+<h1 align="center">Hey, I'm Priyangshu &nbsp;👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> &nbsp;·&nbsp; Guwahati, IN &nbsp;·&nbsp; M.Tech CSE '26 @ VIT Bhopal
@@ -29,29 +27,49 @@
 
 <!-- ============================== ABOUT ============================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="22"/> &nbsp;About
+## &#9889;&nbsp; About
 
-```yaml
-name:         Priyangshu Das
-role:         Full-Stack Developer
-location:     Guwahati, India  (UTC +5:30)
-studying:     M.Tech, CSE  ·  VIT Bhopal  ·  Class of '26
-currently:    Operations Intern @ Ganguly Consulting
-focus:        Web apps · REST APIs · Discord bots · Linux infra
-private:      Most production work lives in private repos
-```
+<table>
+  <tr>
+    <td valign="top" width="58%">
 
-- Building production **web apps**, **cross-platform mobile** clients, and the **REST APIs** that wire them together
-- Shipping and operating **Discord bots + dashboards** end-to-end &mdash; discord.js v14, slash + modal interactions, ticket systems with transcripts, OAuth-protected dashboards, OTP email verification
-- Running **Linux deploys** that survive prod &mdash; Nginx, Docker, automated backups, resilient restart workflows
-- Comfortable owning the full slice: schema &rarr; API &rarr; UI &rarr; deploy &rarr; on-call
+I'm a full-stack developer who likes owning the whole slice &mdash; **schema &rarr; API &rarr; UI &rarr; deploy &rarr; on-call**. I ship production web apps, cross-platform mobile clients, and the REST APIs that wire them together. On the side I run high-traffic Discord communities and the bots + dashboards that keep them moving.
 
-> **Currently:** Operations Intern @ **Ganguly Consulting** &nbsp;(Oct 2025 &ndash; Mar 2026) <br/>
-> **Open to:** full-stack roles, contract work on Next.js / Node / Discord platforms
+Most of my best work lives in private repos &mdash; the stats below count those.
+
+###### What I do
+
+- Build & operate **Next.js + Node** production web apps (e-commerce, dashboards, marketing sites)
+- Ship **Discord bot platforms** end-to-end &mdash; discord.js v14, slash + modal interactions, ticket systems with transcripts, OAuth dashboards, OTP email verification
+- Maintain **Linux infrastructure** that survives prod &mdash; Nginx, Docker, automated backups, resilient restart workflows
+- Design **REST APIs** that power bots, internal tools, and storefronts
+
+</td>
+<td valign="top" width="42%">
+
+###### Quick facts
+
+| | |
+|---|---|
+| **Role** | Full-Stack Developer |
+| **Location** | Guwahati, IN &nbsp;·&nbsp; UTC&nbsp;+5:30 |
+| **Studying** | M.Tech CSE &nbsp;·&nbsp; VIT Bhopal &nbsp;·&nbsp; '26 |
+| **Currently** | Operations Intern &nbsp;@&nbsp; Ganguly Consulting |
+| **Period** | Oct 2025 &nbsp;&ndash;&nbsp; Mar 2026 |
+| **Stack** | TS · Next · Node · Mongo · Linux |
+| **Open to** | Full-stack roles &nbsp;·&nbsp; contract work |
+
+<p>
+  <a href="mailto:priyangshudas88@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-priyangshudas88%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</td>
+  </tr>
+</table>
 
 <!-- ============================== TECH STACK ============================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22"/> &nbsp;Tech Stack
+## &#128296;&nbsp; Tech Stack
 
 <table>
   <tr>
@@ -116,7 +134,7 @@ private:      Most production work lives in private repos
 
 <!-- ============================== STATS ============================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22"/> &nbsp;GitHub Stats &nbsp;<sub>*(private commits included)*</sub>
+## &#128202;&nbsp; GitHub Stats &nbsp;<sub>*(private commits included)*</sub>
 
 <p align="center">
   <a href="https://github.com/itsPSD">
@@ -158,7 +176,7 @@ private:      Most production work lives in private repos
 
 <!-- ============================== BY THE NUMBERS ============================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" width="22"/> &nbsp;By the Numbers
+## &#128290;&nbsp; By the Numbers
 
 <p align="center">
   <img src="https://img.shields.io/badge/Years_Shipping-3%2B-0e75b6?style=for-the-badge"/>
