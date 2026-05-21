@@ -54,8 +54,6 @@ Most of my best work lives in private repos &mdash; the stats below count those.
 | **Role** | Full-Stack Developer |
 | **Location** | Guwahati, IN &nbsp;·&nbsp; UTC&nbsp;+5:30 |
 | **Studying** | M.Tech CSE &nbsp;·&nbsp; VIT Bhopal &nbsp;·&nbsp; '26 |
-| **Currently** | Operations Intern &nbsp;@&nbsp; Ganguly Consulting |
-| **Period** | Oct 2025 &nbsp;&ndash;&nbsp; Mar 2026 |
 | **Stack** | TS · Next · Node · Mongo · Linux |
 | **Open to** | Full-stack roles &nbsp;·&nbsp; contract work |
 
@@ -144,10 +142,7 @@ Most of my best work lives in private repos &mdash; the stats below count those.
 
 <p align="center">
   <a href="https://github.com/itsPSD">
-    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsPSD&theme=github_dark" alt="Stats"/>
-  </a>
-  <a href="https://github.com/itsPSD">
-    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsPSD&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
+    <img src="https://streak-stats.demolab.com?user=itsPSD&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
   </a>
 </p>
 
