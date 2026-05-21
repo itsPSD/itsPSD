@@ -1,12 +1,17 @@
-<h1 align="center">Priyangshu Das</h1>
+<!-- ============================== HEADER ============================== -->
+
+<h1 align="center">
+  Hey, I'm Priyangshu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" width="34" alt="dev"/>
+</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> &nbsp;·&nbsp; Guwahati, IN &nbsp;·&nbsp; M.Tech CSE '26 @ VIT Bhopal
 </p>
 
 <p align="center">
-  I architect cross-platform applications, scalable web platforms,<br/>
-  and the bots, APIs, and Linux infra that hold them up.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=I+build+web+apps%2C+APIs%2C+and+Discord+platforms.;Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+MongoDB+%C2%B7+Linux;Linux+deploys+that+don't+fall+over+at+2+AM." alt="typing"/>
+  </a>
 </p>
 
 <p align="center">
@@ -22,24 +27,38 @@
   <img src="https://img.shields.io/github/stars/itsPSD?label=Stars&style=flat-square&color=0e75b6" alt="stars"/>
 </p>
 
----
+<!-- ============================== ABOUT ============================== -->
 
-## About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="22"/> &nbsp;About
 
-- Building production web apps, cross-platform mobile clients, and the REST APIs that wire them together
-- Ship and operate **Discord bots and dashboards** end-to-end — discord.js v14, slash + modal interactions, ticket systems with transcripts, OAuth-protected dashboards, OTP email verification
-- **Discord server administration** for high-traffic communities · designed REST APIs powering bots, internal tools, and storefronts
-- **Linux deploys that don't fall over at 2 AM** — Nginx, Docker, automated backups, resilient restart workflows
-- Most of my work lives in **private repos** — the stats below are configured to count private commits
+```yaml
+name:         Priyangshu Das
+role:         Full-Stack Developer
+location:     Guwahati, India  (UTC +5:30)
+studying:     M.Tech, CSE  ·  VIT Bhopal  ·  Class of '26
+currently:    Operations Intern @ Ganguly Consulting
+focus:        Web apps · REST APIs · Discord bots · Linux infra
+private:      Most production work lives in private repos
+```
 
-> **Currently:** Operations Intern @ **Ganguly Consulting** (Oct 2025 – Mar 2026)
-> **Recent:** Full-Stack Dev @ **ONLYBEES** · Sr. Developer & Server Admin @ **Legacy Roleplay India**
+- Building production **web apps**, **cross-platform mobile** clients, and the **REST APIs** that wire them together
+- Shipping and operating **Discord bots + dashboards** end-to-end &mdash; discord.js v14, slash + modal interactions, ticket systems with transcripts, OAuth-protected dashboards, OTP email verification
+- Running **Linux deploys** that survive prod &mdash; Nginx, Docker, automated backups, resilient restart workflows
+- Comfortable owning the full slice: schema &rarr; API &rarr; UI &rarr; deploy &rarr; on-call
 
----
+> **Currently:** Operations Intern @ **Ganguly Consulting** &nbsp;(Oct 2025 &ndash; Mar 2026) <br/>
+> **Open to:** full-stack roles, contract work on Next.js / Node / Discord platforms
 
-## Tech Stack
+<!-- ============================== TECH STACK ============================== -->
 
-#### Frontend
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22"/> &nbsp;Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Frontend**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -48,7 +67,8 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-#### Backend
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
@@ -56,20 +76,26 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
 
-#### Bots & Realtime
+**Bots & Realtime**
+
 ![discord.js](https://img.shields.io/badge/discord.js_v14-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Discord OAuth](https://img.shields.io/badge/Discord_OAuth-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B00?style=flat-square&logo=webhooks&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 
-#### Database
+</td>
+<td valign="top" width="50%">
+
+**Database**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-#### Infra & Tooling
+**Infra & Tooling**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -77,22 +103,36 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+**Daily Drivers**
 
-## GitHub Stats &nbsp;<sub>*(private commits included)*</sub>
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+</td>
+  </tr>
+</table>
+
+<!-- ============================== STATS ============================== -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22"/> &nbsp;GitHub Stats &nbsp;<sub>*(private commits included)*</sub>
 
 <p align="center">
   <a href="https://github.com/itsPSD">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsPSD&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsPSD&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/itsPSD">
-    <img height="180" src="https://streak-stats.demolab.com?user=itsPSD&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
+    <img height="170" src="https://streak-stats.demolab.com?user=itsPSD&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=86400" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/itsPSD">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsPSD&layout=compact&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&langs_count=10&count_private=true" alt="Top languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsPSD&layout=compact&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true&cache_seconds=86400" alt="Top languages"/>
+  </a>
+  <a href="https://github.com/itsPSD">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsPSD&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
   </a>
 </p>
 
@@ -108,61 +148,26 @@
   </a>
 </p>
 
-> **Tip for you:** to make sure private contributions show up here, go to
-> **GitHub → Settings → Profile → Contributions & activity → enable**
-> *"Include private contributions on my profile"*.
+<details>
+  <summary><b>Stats not loading?</b> &nbsp;<sub>(click to expand)</sub></summary>
+  <br/>
+  These cards are rendered by <code>github-readme-stats.vercel.app</code> and <code>streak-stats.demolab.com</code>. They occasionally fail on first cold-start or when viewed inside VS Code's Markdown preview &mdash; reload, or open this on github.com directly. To count private commits, enable <i>Settings &rarr; Profile &rarr; Contributions & activity &rarr; "Include private contributions on my profile"</i>.
+</details>
 
----
+<!-- ============================== BY THE NUMBERS ============================== -->
 
-## Featured Work
-
-#### 🛍️ [Cherries Crochet](https://cherriescrochet.com) &nbsp; `Live`
-Production e-commerce for a handmade crochet boutique.
-**Razorpay** checkout (HMAC verify on return + server webhook) · **dual JWT-cookie auth** (admin + customer) · zone-based shipping · coupon engine (percent / flat / per-user caps / windows) · atomic stock reservation with auto-rollback · refunds, low-stock, fulfilment dashboard · rate-limited middleware, strict CSP.
-`Next.js 16` `MongoDB` `Mongoose` `Razorpay` `Tailwind` `JWT`
-
-#### 🤖 Discord Bot Platform &nbsp; `Shipped`
-Multi-tenant Discord bot platform with a full Next.js dashboard.
-Multi-server isolation with per-guild config + audit trail · slash / button / modal interactions · full ticket lifecycle (create, claim, route, close, reopen, transcripts) · **OTP email verification** with role gating · Discord OAuth login · **live config sync** — dashboard edits hot-apply on the bot.
-`TypeScript` `discord.js v14` `Next.js` `Fastify` `PostgreSQL` `Prisma` `Resend` `Pino`
-
-#### 🚔 Legacy MDT &nbsp; `Internal`
-Mobile Data Terminal for the San Andreas State PD on Legacy Roleplay India.
-Citations · arrests · BOLOs · incident reports · unit dispatch · role-based access (officers / dispatch / high command) · real-time MySQL pipeline · pluggable permission system across OP-FW servers · markdown-rendered case notes with sanitised HTML.
-`Next.js 16` `React 19` `MySQL` `OP-FW` `Tailwind v4`
-
-#### 🏨 [Hotel Palacio](https://hotelpalacio.in) &nbsp; `Live`
-Animation-led luxury hotel marketing site.
-Choreographed Framer Motion reveal system · parallax suites · press-quote carousel · tuned for first paint and accessibility-aware reveals · SEO + Open Graph tuned for booking referrals · reduced-motion fallback on every section.
-`Next.js 15` `React` `Framer Motion` `Tailwind` `TypeScript`
-
-#### 🏟️ The Sport Hour &nbsp; `Shipped`
-Cross-platform sports app for iOS, Android & web.
-Shared core layer between native + web clients · Express REST API with modular route/view split · EAS-managed iOS & Android binary pipeline · offline-first reads on key feeds.
-`React Native` `Expo` `Node.js` `Express` `MongoDB` `EAS`
-
----
-
-## Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Operations Intern | **Ganguly Consulting** &nbsp;·&nbsp; Remote | Oct 2025 – Mar 2026 |
-| Full-Stack Developer | **ONLYBEES** &nbsp;·&nbsp; On-site | Jun 2025 – Sep 2025 |
-| Sr. Developer & Server Administrator | **Legacy Roleplay India** &nbsp;·&nbsp; Remote | Sep 2023 – Mar 2025 |
-
----
-
-## By the Numbers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" width="22"/> &nbsp;By the Numbers
 
 <p align="center">
   <img src="https://img.shields.io/badge/Years_Shipping-3%2B-0e75b6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Production_Deploys-12%2B-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/APIs_%26_Bots-REST-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bots_%26_APIs-REST-0e75b6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/M.Tech_CSE-VIT_'26-0e75b6?style=for-the-badge"/>
 </p>
 
----
+<!-- ============================== FOOTER ============================== -->
+
+<br/>
 
 <p align="center">
   <i>I care about clean type, fast first paint, honest code,<br/>
@@ -170,5 +175,9 @@ Shared core layer between native + web clients · Express REST API with modular 
 </p>
 
 <p align="center">
-  <a href="mailto:priyangshudas88@gmail.com">priyangshudas88@gmail.com</a>
+  <a href="mailto:priyangshudas88@gmail.com"><b>priyangshudas88@gmail.com</b></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=80&section=footer&reversal=true" width="100%" alt="footer"/>
 </p>
